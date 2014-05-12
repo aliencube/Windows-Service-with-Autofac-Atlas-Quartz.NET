@@ -3,6 +3,11 @@
 This is a sample Windows Service using Autofac, Atlas and Quartz.NET.
 
 
+# Related Article #
+
+* [Developing Windows Service with Autofac, Atlas and Quartz.NET](http://blog.aliencube.org/en/2014/05/12/developing-windows-service-with-autofac-atlas-and-quartz-net)
+
+
 # License #
 
 This sample code is released under [MIT License](http://opensource.org/licenses/MIT).
